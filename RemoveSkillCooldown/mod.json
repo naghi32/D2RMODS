@@ -2,6 +2,6 @@
   "name": "Remove all player skills forced cooldown",
   "description": "Removes the mandatory cooldown on all player skills",
   "author": "Jeo",
-  "website": "NoneForNow",
+  "website": "https://github.com/naghi32/D2RMODS/tree/main/RemoveSkillCooldown",
   "version": "1.0"
 }
