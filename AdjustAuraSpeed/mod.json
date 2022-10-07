@@ -2,7 +2,7 @@
   "name": "Adjust Aura apply speed",
   "description": "Adjusts the time it takes for the auras to apply",
   "author": "Jeo",
-  "website": "https://www.nexusmods.com/users/83906928",
+  "website": "https://github.com/naghi32/D2RMODS/tree/main/AdjustAuraSpeed",
   "version": "1.0",
   "config": [
     {
