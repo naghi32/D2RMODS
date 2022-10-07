@@ -13,6 +13,15 @@
       "defaultValue": 50,
       "minValue": 1,
       "maxValue": 99
+    },
+    {
+      "id": "basedmgmult",
+      "type": "number",
+      "name": "Base aura delay damage calculate",
+      "description": "Calculate aura damage from a base aura speed between 1 and 250.",
+      "defaultValue": 50,
+      "minValue": 1,
+      "maxValue": 250
     }
   ]
 }
