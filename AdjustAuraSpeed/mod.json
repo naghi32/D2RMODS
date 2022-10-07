@@ -8,17 +8,24 @@
     {
       "id": "perdelay",
       "type": "number",
-      "name": "Aura speed",
-      "description": "Set aura apply speed between 1 and 99.",
+      "name": "Aura delay",
+      "description": "Set aura delay between 1 and 99.",
       "defaultValue": 50,
       "minValue": 1,
       "maxValue": 99
     },
+	 {
+      "id": "damagefix",
+      "type": "checkbox",
+      "name": "Damage fix",
+      "description": "Enable to fix aura damage",
+      "defaultValue": true
+    },
     {
-      "id": "basedmgmult",
+      "id": "basedmgfix",
       "type": "number",
-      "name": "Base aura delay damage calculate",
-      "description": "Calculate aura damage from a base aura speed between 1 and 250.",
+      "name": "Damage Fix ",
+      "description": "Calculate aura damage from a base aura delay between 1 and 250.",
       "defaultValue": 50,
       "minValue": 1,
       "maxValue": 250
